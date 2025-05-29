@@ -1,92 +1,77 @@
-👨‍💻 Portfolio — AkshuYT
-🧑 About Me
-I'm AkshuYT, a skilled Minecraft server developer and hosting specialist with extensive experience in custom server builds, plugin development, and infrastructure optimization. I’ve worked with numerous networks, hosting providers, and content creators to bring professional-grade server environments to life.
+# 👨‍💻 Portfolio — AkshuYT
 
-💼 Experience
-🛠️ Server Developer & Network Consultant
-Freelancer – 2021–Present
+## 🧑 About Me
 
-Worked on Networks:
-Melon MC – High-performance SMP with advanced systems
+I'm **AkshuYT**, a skilled **Minecraft server developer** and **hosting infrastructure specialist** with deep experience in custom server builds, plugin development, and performance optimization. I’ve worked with top-tier networks, server hosts, and YouTubers to create seamless, scalable, and engaging server environments.
 
-EndNetwork – Earth SMP with custom enchants, bosses, and structure generation
+---
 
-Strike Network – Optimized multi-gamemode setup
+## 💼 Experience
 
-KidneySteal – Themed server with custom gameplay mechanics
+### 🛠️ Server Developer & Network Consultant
 
-MineSurf – Crossplay network with PvP, economy, and quests
+**Freelancer — 2021–Present**
 
-☁️ Hosting & Infrastructure Expert
-Collaborated With:
-Julihost
+**Networks I've Built & Optimized:**
 
-Matichost
+* **Melon MC** — High-performance SMP featuring advanced mechanics and player-focused content
+* **EndNetwork** — Custom Earth SMP with dynamic enchantments, world bosses, and structure generation
+* **Strike Network** — Versatile multi-gamemode setup with cross-server syncing and optimization
+* **KidneySteal** — Themed PvP/Economy server with unique core mechanics and custom plugins
+* **MineSurf** — Bedrock-compatible crossplay server with PvP, quests, jobs, and economy systems
 
-Silice Host
+---
 
-Demon Cloud
+## ☁️ Hosting & Infrastructure Expertise
 
-TSYHost
+**Collaborated With:**
+Julihost • Matichost • Silice Host • Demon Cloud • TSYHost • Lord Cloud
+*(and several others)*
 
-Lord Cloud
+**Core Responsibilities:**
 
-(and many more)
+* Linux-based server setup & provisioning
+* RAM, CPU, and disk I/O optimization
+* Custom Pterodactyl panel installs
+* Firewall, proxy (Velocity/Bungee), and cross-version configuration
 
-Roles:
+---
 
-Linux setup & server provisioning
+## 🎥 YouTuber Server Development
 
-Resource optimization (RAM, CPU, I/O)
+**Server Setup & Support For:**
+Drkbabu • VanshSpot • HCL Playz • Niz Gamer • BulkyStar
+*(and others)*
 
-Control panel (Pterodactyl) installation & customization
+---
 
-Firewall, proxy (Velocity/Bungee), and multi-version support
+## 🛠 Skills Overview
 
-🎥 YouTuber Server Development
-Server Setup & Support For:
-Drkbabu
+| Category           | Skills / Tools                                        |
+| ------------------ | ----------------------------------------------------- |
+| **Plugin Configs** | DeluxeMenus, TAB, EcoEnchants, LuckPerms, mcMMO, Jobs |
+| **Development**    | Java, YAML, JSON, Spigot API, PlaceholderAPI          |
+| **Infrastructure** | Linux, SSH, systemd, Pterodactyl, Node.js             |
+| **Server Types**   | Paper, Purpur, Geyser/Floodgate, BungeeCord, Velocity |
+| **Optimization**   | Lag fixing, async tasking, world trimming             |
+| **World Tools**    | WorldEdit, WorldGuard, Multiverse, Dynmap             |
 
-VanshSpot
+---
 
-HCL Playz
+## 🌐 Featured Server Work
 
-Niz Gamer
+Here are some of the standout projects I've contributed to:
 
-BulkyStar
+* **Melon MC** — A modern Survival server with superior backend optimization and custom QoL features
+* **EndNetwork** — A unique Earth SMP offering elite boss fights, enchants, and structure systems
+* **Strike Network** — Multi-gamemode server stack with deep backend tuning and flexible scaling
+* **KidneySteal** — Custom game-mode development focused on progression and PvP balance
+* **MineSurf** — Fully integrated Java-Bedrock server with balanced economy and quest systems
 
-(and others)
+---
 
-Services Provided:
+## 📞 Contact
 
-Full SMP & custom game-mode setup
-
-Plugin configuration and balancing
-
-Backend support, Bedrock support, optimization
-
-🛠 Skills
-Area	Skills & Tools
-Plugin Configs	DeluxeMenus, TAB, EcoEnchants, LuckPerms, mcMMO, Jobs
-Development	Java, YAML, JSON, Spigot API, PlaceholderAPI
-Hosting & Infra	Linux, SSH, systemd, Pterodactyl, Node.js
-Server Types	Paper, Purpur, Geyser/Floodgate, Bungee, Velocity
-Optimization	Lag fixing, async tasking, world trimming
-World Tools	WorldEdit, WorldGuard, Multiverse, Dynmap
-
-📦 Notable Projects
-🌍 EndNetwork: Realistic Earth SMP with bosses, structures, & enchantment system
-
-⚔️ Custom Dungeons: AI bosses, loot, and region-based spawn logic
-
-📊 ServerMonitorPro: Live performance dashboard (TPS, RAM, CPU)
-
-🔮 EnchantmentPlus: Advanced enchant system using EcoEnchants
-
-🧱 Bedrock Support: Full crossplay setup with Geyser & Floodgate
-
-📞 Contact
-Platform	Info
-Discord	akshu111 (AkshuYT)
-Email	akshuyt1911@gmail.com
-Portfolio Formats	Available as PDF, HTML, or Notion on request
+* **Discord:** `akshu111` (AkshuYT)
+* **Email:** `akshuyt1911@gmail.com`
+* **Formats:** Portfolio available as **PDF**, **HTML**, or **Notion** upon request
