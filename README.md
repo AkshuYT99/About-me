@@ -74,4 +74,3 @@ Here are some of the standout projects I've contributed to:
 
 * **Discord:** `akshu111` (AkshuYT)
 * **Email:** `akshuyt1911@gmail.com`
-* **Formats:** Portfolio available as **PDF**, **HTML**, or **Notion** upon request
